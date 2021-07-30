@@ -177,8 +177,8 @@ function setTheme(mode) {
       projectDescription:
         "Designed & Built the Portfolio using HTML CSS and Vanilla JavaScript to show case the Professional Journey.",
       projectImage: "images/portfolio.png",
-      codeLink: " ",
-      demoLink: " "
+      codeLink: "https://github.com/kritikachandak/Portfolio ",
+      demoLink: "https://kritikachandak.github.io/Portfolio/ "
     },
    
    
